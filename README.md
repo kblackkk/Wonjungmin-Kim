@@ -1,4 +1,4 @@
-# kblack
+# Wonjungmin Kim
 Developer &amp; Graphic Designer <br>
 I am looking for something to connect between Graphic Design and Programming Languages.<br>
 

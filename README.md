@@ -1,5 +1,5 @@
 # kblack
-Developer &amp; Graphic Designer 
+Developer &amp; Graphic Designer <b>
 I am looking for something to connect between Graphic Design and Programming Languages.
 
 

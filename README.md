@@ -1,18 +1,18 @@
 # kblack
-Developer &amp; Graphic Designer <b>
-I am looking for something to connect between Graphic Design and Programming Languages.
+Developer &amp; Graphic Designer <br>
+I am looking for something to connect between Graphic Design and Programming Languages.<br>
 
 
-Wonjungmin Kim
-kick.kblack@gmail.com
+<b>Wonjungmin Kim<b/><br>
+kick.kblack@gmail.com<br>
 
-Linkedin
-https://www.linkedin.com/in/wonjungmin-kim-909233169/
+<b>Linkedin</b><br>
+https://www.linkedin.com/in/wonjungmin-kim-909233169/<br>
 
-GitHub
-https://github.com/kblackkk
+<b>GitHub</b><br>
+https://github.com/kblackkk<br>
 
-Design Portfolio
-www.behance.net/keymin
-www.keynotor.com
-www.adsoftheworld.com/creative/wonjungmin_kim
+<b>Design Portfolio</b><br>
+www.behance.net/keymin<br>
+www.keynotor.com<br>
+www.adsoftheworld.com/creative/wonjungmin_kim<br>
